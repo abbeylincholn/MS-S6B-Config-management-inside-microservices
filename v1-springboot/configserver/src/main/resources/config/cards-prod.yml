@@ -1,0 +1,11 @@
+build:
+  version: "1.0"
+
+cards:
+  message: "Welcome to AbbeyBank cards related prod APIs "
+  contactDetails:
+    name: "Moyinoluwa - Product Owner"
+    email: "moyit@Abbeybank.com"
+  onCallSupport:
+    - 08046636111
+    - +440754519226

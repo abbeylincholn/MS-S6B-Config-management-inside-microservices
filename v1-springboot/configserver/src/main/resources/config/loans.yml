@@ -1,0 +1,12 @@
+
+build:
+  version: "3.0"
+
+loans:
+  message: "Welcome to AbbeyBank loans related local APIs "
+  contactDetails:
+    name: "Abbey Ray - Junior Developer"
+    email: "smitha@Abbeybank.com"
+  onCallSupport:
+    - 08036636560
+    - +4407401199310

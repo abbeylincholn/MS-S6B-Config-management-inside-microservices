@@ -1,0 +1,11 @@
+build:
+  version: "2.0"
+
+accounts:
+  message: "Welcome to AbbeyBank accounts related QA APIs "
+  contactDetails:
+    name: "Tobiano - Tester"
+    email: "tobs@Abbeybank.com"
+  onCallSupport:
+    - 08026636111
+    - +440740119226
